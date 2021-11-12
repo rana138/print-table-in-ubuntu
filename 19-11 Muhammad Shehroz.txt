@@ -14,7 +14,7 @@ int main()
 	}
 	else{
 		wait(&status);
-		printf("in the Parent Process : \n Name Muhammad Shehroz Ashiq and CNIC 36502-9286254-7");
+		printf("In the Parent Process : \n Name Muhammad Shehroz Ashiq \n CNIC Number: 36502-9286254-7");
 	}
 	return 0;
 }
